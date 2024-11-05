@@ -1,13 +1,11 @@
-<img src="./.github/banner.png" width="100%">
-  
 # 🧡 Portfolio
 
 [README PT-BR](./README-pt.md)
 
-Welcome to my [portfolio](https://portfolio-chi-lemon-51.vercel.app)! This is a website that show my abilities and best projects in Web Development.
+Welcome to my ! This is a website that show my abilities and best projects in Web Development.
 The project also makes it easy to contact with me.
 
-> ⚠️ Feel free to [contact me](https://portfolio-chi-lemon-51.vercel.app/contact), and share your **_feedback_** and **_insights_**, or report a **_bug_**!
+> ⚠️ Feel free to , and share your **_feedback_** and **_insights_**, or report a **_bug_**!
 
 <p>
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,12 +20,14 @@ The project also makes it easy to contact with me.
 This project was made with the following technologies/libraries:
 
 - Typescript
-- React
+- React Native
+- ReactJs
 - Next.js
-- Styled-components
-- Lucide react
-- Eslint
+- C#
+- MariaDB
+- SQL
 - Git & Github
+- CRUD's
 
 <div id='learning'></div>
 
@@ -43,7 +43,6 @@ During the development, I've discovered new things, such as:
 
 ## 🌎 Deploy
 
-To check out the deploy, access https://portfolio-chi-lemon-51.vercel.app/
 
 ## Enjoy this project!
 
