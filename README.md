@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img src="./.github/banner.png" width="100%">
+  
+# 🧡 Portfolio
 
-## Getting Started
+[README PT-BR](./README-pt.md)
 
-First, run the development server:
+Welcome to my [portfolio](https://portfolio-chi-lemon-51.vercel.app)! This is a website that show my abilities and best projects in Web Development.
+The project also makes it easy to contact with me.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> ⚠️ Feel free to [contact me](https://portfolio-chi-lemon-51.vercel.app/contact), and share your **_feedback_** and **_insights_**, or report a **_bug_**!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#learning">What I've Learned</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#deploy">Deploy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<div id='technologies'></div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Technologies
 
-## Learn More
+This project was made with the following technologies/libraries:
 
-To learn more about Next.js, take a look at the following resources:
+- Typescript
+- React
+- Next.js
+- Styled-components
+- Lucide react
+- Eslint
+- Git & Github
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<div id='learning'></div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧠 What I've Learned
 
-## Deploy on Vercel
+During the development, I've discovered new things, such as:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Mock files](./src/data/)
+- [Import/export types](./src/types/index.ts)
+- Handle with different animations
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div id='deploy'></div>
+
+## 🌎 Deploy
+
+To check out the deploy, access https://portfolio-chi-lemon-51.vercel.app/
+
+## Enjoy this project!
+
+Developed with 🧡 by **Cristian Sbardelotto**.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-k-sbardelotto/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristian-sbardelotto)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-chi-lemon-51.vercel.app)
